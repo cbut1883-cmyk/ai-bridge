@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "task_id": "TEST_GITHUB_V2",
+    "passcode": "5926",
+    "action": "CREATE_FILE",
+    "details": {
+      "filename": "GITHUB_VERIFIED.txt",
+      "content": "ยินดีด้วย! ระบบ GitHub Bridge ของคุณทำงานสำเร็จแล้ว"
+    }
+  }
+]
