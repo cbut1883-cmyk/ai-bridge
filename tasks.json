@@ -1,11 +1,1 @@
-[
-  {
-    "task_id": "DIRECT_HELLO",
-    "passcode": "5926",
-    "action": "CREATE_FILE",
-    "details": {
-      "filename": "HELLO_GEMINI.txt",
-      "content": "สวัสดี! ระบบ GitHub Bridge ของเราเชื่อมต่อสำเร็จแล้ว\nตอนนี้บอทในเครื่องคุณสามารถอ่านงานจาก GitHub ได้อย่างถูกต้อง"
-    }
-  }
-]
+[]
